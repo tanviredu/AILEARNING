@@ -1,10 +1,7 @@
 streamlit
-langchain
-chromadb
-llama-cpp-python
-faiss-cpu
-faiss-gpu
-opencv-python
-easyocr
+torch
+librosa
 numpy
-pillow
+transformers
+gradio
+soundfile
