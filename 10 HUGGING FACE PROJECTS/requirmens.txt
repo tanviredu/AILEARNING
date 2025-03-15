@@ -1,7 +1,0 @@
-streamlit
-torch
-librosa
-numpy
-transformers
-gradio
-soundfile
