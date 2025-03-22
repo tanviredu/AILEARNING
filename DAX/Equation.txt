@@ -1,0 +1,1 @@
+Time.ToText(Time.From([YourDateTimeColumn]), "HH:mm:ss")
