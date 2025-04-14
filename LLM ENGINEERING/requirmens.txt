@@ -1,10 +1,5 @@
-streamlit
-langchain
-chromadb
-llama-cpp-python
-faiss-cpu
-faiss-gpu
-opencv-python
-easyocr
-numpy
-pillow
+groq
+selenium
+webdriver-manager
+gradio
+beautifulsoup4
