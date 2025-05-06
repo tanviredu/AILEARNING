@@ -1,0 +1,15 @@
+-- FIND MOST RECENT FILMS RENTED BY
+-- EACH CUSTOMER
+-- THERE CAN BE NO DUPLICATE CUSTOMER
+
+
+
+
+
+
+SELECT 
+	  MAX(R.rental_date)
+FROM
+	rental R
+WHERE 
+	R.customer_id = 459;
